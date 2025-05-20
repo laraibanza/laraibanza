@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/your-username.png" width="120" height="120" style="border-radius: 50%;" alt="Profile Picture">
-</p>
+
 
 <h1 align="center">Laraib Anza</h1>
 <p align="center">
