@@ -28,7 +28,7 @@ I am a computer science graduate with a strong grip on Data Structures, Object-O
   <li><strong>Mobile App Development:</strong> Flutter</li>
   <li><strong>Web Technologies:</strong> HTML, CSS, Bootstrap, JavaScript, jQuery</li>
   <li><strong>CMS:</strong> WordPress, TYPO3</li>
-  <li><strong>Other Tools:</strong> MS Office</li>
+  <li><strong>Other Tools:</strong> MS Office,VS Code,Jupyter Notebook , MySQL,</li>
 </ul>
 
 <hr>
