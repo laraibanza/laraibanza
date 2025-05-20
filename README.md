@@ -97,7 +97,7 @@ I am a computer science graduate with a strong grip on Data Structures, Object-O
 <h2>Let's Connect</h2>
 <ul>
   <li>Email: <a href="mailto:laraibanza47@gmail.com">laraibanza47@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/laraib-anza-a77735196/">linkedin.com/in/your-profile</a></li>
   
 </ul>
 
