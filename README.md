@@ -83,16 +83,7 @@ I am a computer science graduate with a strong grip on Data Structures, Object-O
   <li>German – Beginner</li>
 </ul>
 
-<hr>
 
-<h2>Personal Information</h2>
-<ul>
-  <li><strong>Date of Birth:</strong> 09-Mar-2001</li>
-  <li><strong>Religion:</strong> Islam</li>
-  <li><strong>Address:</strong> Frankfurter Strasse 13 , Steinbach , Germany</li>
-</ul>
-
-<hr>
 
 <h2>Let's Connect</h2>
 <ul>
