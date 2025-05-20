@@ -107,7 +107,7 @@ I am a computer science graduate with a strong grip on Data Structures, Object-O
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laraibanza&show_icons=true&theme=default" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraibanza&theme=default" width="48%">
+  
 </p>
 
 <p align="center">
