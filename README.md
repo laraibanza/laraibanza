@@ -8,7 +8,7 @@
 
 <h2>Career Objective</h2>
 <p>
-I am a computer science graduate with a strong grip on Data Structures, Object-Oriented Programming, and Database concepts.I love solving problems, analyzing data, and turning ideas into reality. I’m continously learning and highly motivated to secure a challenging position to expand my learning, knowledge, and skills by making a meaningful contribution to the success of the organization.
+Motivated Computer Science graduate with hands-on experience in data analysis projects using Python, SQL, Pandas, and NumPy. Seeking a fully remote Data Analyst role to apply my skills in real-world business scenarios and contribute to data-driven decision-making.
 </p>
 
 <hr>
@@ -29,6 +29,16 @@ I am a computer science graduate with a strong grip on Data Structures, Object-O
   <li><strong>Web Technologies:</strong> HTML, CSS, Bootstrap, JavaScript, jQuery</li>
   <li><strong>CMS:</strong> WordPress, TYPO3</li>
   <li><strong>Other Tools:</strong> MS Office,VS Code,Jupyter Notebook , MySQL</li>
+</ul>
+
+<hr>
+
+<h2>Projects</h2>
+<ul>
+  <li><strong>1-Student Performance Analysis</strong> Tools: Python, Pandas, Matplotlib
+</li>
+  <li><strong>Intermediate of Computer Science</strong> – The Superior Group of Colleges, Sargodha (2019), Marks: 75%</li>
+  <li><strong>Matriculation (Science)</strong> – F.G Public School Sargodha (2017), Marks: 88.4%</li>
 </ul>
 
 <hr>
