@@ -33,13 +33,23 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2>Projects</h2>
-<ul>
-  <li><strong>1-Student Performance Analysis</strong> Tools: Python, Pandas, Matplotlib
-</li>
-  <li><strong>Intermediate of Computer Science</strong> – The Superior Group of Colleges, Sargodha (2019), Marks: 75%</li>
-  <li><strong>Matriculation (Science)</strong> – F.G Public School Sargodha (2017), Marks: 88.4%</li>
-</ul>
+<h2>📊 Data Analysis Projects</h2>
+
+<p>
+  <strong>1.Student Performance Analysis</a></strong><br>
+  Cleaned and analyzed student exam data using Pandas and Matplotlib. Built visual dashboards to detect performance trends and identify weak areas.
+</p>
+
+<p>
+  <strong>2.Netflix Data Analysis</a></strong><br>
+  Explored trends in Netflix content over the years. Analyzed genres, countries, and release patterns using Python, Pandas, and Seaborn.
+</p>
+
+<p>
+  <strong>3.Weather Data Pipeline</a></strong><br>
+  Automated weather data extraction using APIs and stored it in a MySQL database. Created a scheduler with Python scripts for hourly updates.
+</p>
+
 
 <hr>
 
