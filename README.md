@@ -25,10 +25,10 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 <h2>🛠️ Technical Skills</h2>
 <ul>
   <li><strong>Programming Languages:</strong> ✔️  C++, Python, SQL, Dart</li>
-  <li><strong>Mobile App Development:</strong> Flutter</li>
-  <li><strong>Web Technologies:</strong> HTML, CSS, Bootstrap, JavaScript, jQuery</li>
-  <li><strong>CMS:</strong> WordPress, TYPO3</li>
-  <li><strong>Other Tools:</strong> MS Office,VS Code,Jupyter Notebook , MySQL</li>
+  <li><strong>Mobile App Development:</strong>✔️  Flutter , Dart</li>
+  <li><strong>Web Technologies:</strong>✔️  HTML, CSS, Bootstrap, JavaScript, jQuery</li>
+  <li><strong>CMS:</strong>✔️  WordPress, TYPO3</li>
+  <li><strong>Other Tools:</strong> ✔️ MS Office,VS Code,Jupyter Notebook , MySQL</li>
 </ul>
 
 <hr>
@@ -127,8 +127,8 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <h2> 🤝 Let's Connect</h2>
 <ul>
-  <li>Email: <a href="mailto:laraibanza47@gmail.com">laraibanza47@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/laraib-anza-a77735196/">linkedin.com/in/laraib-anza-a77735196</a></li>
+  <li>📧Email: <a href="mailto:laraibanza47@gmail.com">laraibanza47@gmail.com</a></li>
+  <li> 🔗LinkedIn: <a href="https://www.linkedin.com/in/laraib-anza-a77735196/">linkedin.com/in/laraib-anza-a77735196</a></li>
   
 </ul>
 
