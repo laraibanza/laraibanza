@@ -1,4 +1,4 @@
-<!-- Font Awesome CDN for icons -->
+<head><!-- Font Awesome CDN for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <!-- Optional: Add CSS for subtle hover effects -->
 <style>
@@ -23,6 +23,7 @@
     color: #555;
   }
 </style>
+</head>
 
 
 <h1 align="center">Laraib Anza</h1>
