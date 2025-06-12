@@ -1,3 +1,28 @@
+<!-- Font Awesome CDN for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<!-- Optional: Add CSS for subtle hover effects -->
+<style>
+  ul li::before {
+    content: "✔️";
+    margin-right: 8px;
+    color: green;
+  }
+
+  a:hover {
+    color: #0073e6;
+    text-decoration: underline;
+  }
+
+  h2 {
+    display: flex;
+    align-items: center;
+  }
+
+  h2 i {
+    margin-right: 10px;
+    color: #555;
+  }
+</style>
 
 
 <h1 align="center">Laraib Anza</h1>
@@ -13,7 +38,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2>Education</h2>
+<h2><i class="fas fa-user-graduate"></i> Education</h2>
 <ul>
   <li><strong>BS Computer Science</strong> – University of Sargodha (2019–2023), CGPA: 3.54 / 4.00</li>
   <li><strong>Intermediate of Computer Science</strong> – The Superior Group of Colleges, Sargodha (2019), Marks: 75%</li>
@@ -22,7 +47,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2>Technical Skills</h2>
+<h2><i class="fas fa-tools"></i> Technical Skills</h2>
 <ul>
   <li><strong>Programming Languages:</strong> C++, Python, SQL, Dart</li>
   <li><strong>Mobile App Development:</strong> Flutter</li>
@@ -87,12 +112,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2>Experience</h2>
-<ul>
-  <li><strong>Software Engineer Intern</strong> – Gosign (Jul 2022 – Oct 2022)</li>
-  <li><strong>Flutter Intern</strong> – Pak AgriTech Ventures (May 2022 – Jul 2022)</li>
-  <li><strong>Data Analysis & Visualization Intern</strong> – Pak AgriTech Ventures (Jul 2021 – Sep 2021)</li>
-</ul>
+
 
 <h2>Experience</h2>
 
