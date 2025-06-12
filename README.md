@@ -1,10 +1,11 @@
-<head><!-- Font Awesome CDN for icons -->
+<!-- Font Awesome for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<!-- Optional: Add CSS for subtle hover effects -->
+
+<!-- Optional custom styles -->
 <style>
   ul li::before {
     content: "✔️";
-    margin-right: 8px;
+    margin-right: 6px;
     color: green;
   }
 
@@ -20,10 +21,10 @@
 
   h2 i {
     margin-right: 10px;
-    color: #555;
+    color: #333;
   }
 </style>
-</head>
+
 
 
 <h1 align="center">Laraib Anza</h1>
