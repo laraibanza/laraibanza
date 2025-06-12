@@ -94,6 +94,25 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
   <li><strong>Data Analysis & Visualization Intern</strong> – Pak AgriTech Ventures (Jul 2021 – Sep 2021)</li>
 </ul>
 
+<h2>Experience</h2>
+
+<p>
+  <strong>Data Analysis Intern</a></strong> – Pak AgriTech Ventures (Jul–Sep 2021)<br>
+  ● Analyzed agricultural data to identify growth patterns.
+  ● Created visual dashboards and automated Excel reports.
+</p>
+
+<p>
+  <strong>Flutter Intern</a></strong> – Pak AgriTech Ventures (May 2022 – Jul 2022)<br>
+  Explored trends in Netflix content over the years. Analyzed genres, countries, and release patterns using Python, Pandas, and Seaborn.
+</p>
+
+<p>
+  <strong>3.Weather Data Pipeline</a></strong><br>
+  Automated weather data extraction using APIs and stored it in a MySQL database. Created a scheduler with Python scripts for hourly updates.
+</p>
+
+
 
 
 <h2>Languages</h2>
