@@ -1,30 +1,3 @@
-<!-- Font Awesome for icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<!-- Optional custom styles -->
-<style>
-  ul li::before {
-    content: "✔️";
-    margin-right: 6px;
-    color: green;
-  }
-
-  a:hover {
-    color: #0073e6;
-    text-decoration: underline;
-  }
-
-  h2 {
-    display: flex;
-    align-items: center;
-  }
-
-  h2 i {
-    margin-right: 10px;
-    color: #333;
-  }
-</style>
-
 
 
 <h1 align="center">Laraib Anza</h1>
@@ -40,7 +13,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2><i class="fas fa-user-graduate"></i> Education</h2>
+<h2>🎓 Education</h2>
 <ul>
   <li><strong>BS Computer Science</strong> – University of Sargodha (2019–2023), CGPA: 3.54 / 4.00</li>
   <li><strong>Intermediate of Computer Science</strong> – The Superior Group of Colleges, Sargodha (2019), Marks: 75%</li>
@@ -49,9 +22,9 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2><i class="fas fa-tools"></i> Technical Skills</h2>
+<h2>🛠️ Technical Skills</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> C++, Python, SQL, Dart</li>
+  <li><strong>Programming Languages:</strong> ✔️  C++, Python, SQL, Dart</li>
   <li><strong>Mobile App Development:</strong> Flutter</li>
   <li><strong>Web Technologies:</strong> HTML, CSS, Bootstrap, JavaScript, jQuery</li>
   <li><strong>CMS:</strong> WordPress, TYPO3</li>
@@ -80,7 +53,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2>Certifications</h2>
+<h2> 📜 Certifications</h2>
 <ul>
   <li>Ethical Hacking for Beginners – Simplilearn (2022)</li>
   <li>Introduction to Flutter – Simplilearn (2022)</li>
@@ -95,7 +68,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2>Seminars Attended</h2>
+<h2> 📢 Seminars Attended</h2>
 <ul>
   <li>Data Management and Data Visualization – Muhammad Shahid</li>
   <li>Harmony and National Integration – Dr. Ahmad Aftab</li>
@@ -105,7 +78,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
-<h2>International Hackathons</h2>
+<h2> 🌍  International Hackathons</h2>
 <ul>
   <li>World Innovation Day Hack 2022</li>
   <li>FormulaAI Hack 2022</li>
@@ -116,7 +89,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 
 
-<h2>Experience</h2>
+<h2> 💼 Experience</h2>
 
 <p>
   <strong>Data Analysis Intern</a></strong> – Pak AgriTech Ventures (Jul – Sep 2021)<br>
@@ -143,7 +116,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 
 
-<h2>Languages</h2>
+<h2> 🌐 Languages</h2>
 <ul>
   <li>Urdu – Fluent</li>
   <li>English – Fluent</li>
@@ -152,7 +125,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 
 
-<h2>Let's Connect</h2>
+<h2> 🤝 Let's Connect</h2>
 <ul>
   <li>Email: <a href="mailto:laraibanza47@gmail.com">laraibanza47@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/laraib-anza-a77735196/">linkedin.com/in/laraib-anza-a77735196</a></li>
