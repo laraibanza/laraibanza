@@ -98,8 +98,10 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <p>
   <strong>Data Analysis Intern</a></strong> – Pak AgriTech Ventures (Jul–Sep 2021)<br>
-  ● Analyzed agricultural data to identify growth patterns.
-  ● Created visual dashboards and automated Excel reports.
+ <ul>
+   <li>Analyzed agricultural data to identify growth patterns. </li>
+   <li>Created visual dashboards and automated Excel reports</li>
+ </ul>
 </p>
 
 <p>
