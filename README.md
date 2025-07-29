@@ -58,7 +58,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 </p>
 
 <p>
-  <strong>Freelance Data Analyst – Self-Led Projects (2024–Present)
+  <strong>Freelance Data Analyst – Self-Led Projects (2024–Present)</strong>
 <br>
   <ul>
     <li>Built end-to-end weather data pipeline using Python and MySQL.</li>
