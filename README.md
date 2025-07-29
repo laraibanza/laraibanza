@@ -33,6 +33,44 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <hr>
 
+<h2> 💼 Experience</h2>
+
+<p>
+  <strong>Data Analysis Intern</a></strong> – Pak AgriTech Ventures (Jul – Sep 2021)<br>
+ <ul>
+   <li>Analyzed agricultural data to identify growth patterns. </li>
+   <li>Created visual dashboards and automated Excel reports</li>
+ </ul>
+</p>
+
+<p>
+  <strong>Flutter Intern</a></strong> – Pak AgriTech Ventures (Jul – Sep 2022)<br>
+  <ul>
+    <li>Contributed to cross-platform mobile apps using Flutter and Dart</li>
+  </ul>
+</p>
+
+<p>
+  <strong>Software Engineer Intern</a></strong>– Gosign (Jul – Oct 2022)<br>
+  <ul>
+    <li> Assisted in TYPO3-based website backend development.</li>
+  </ul>
+</p>
+
+<p>
+  <strong>Freelance Data Analyst – Self-Led Projects (2024–Present)
+<br>
+  <ul>
+    <li>Built end-to-end weather data pipeline using Python and MySQL.</li>
+    <li>Analyzed Netflix and Student data sets to generate insights.</li>
+    <li>Published code and visuals on GitHub.</li>
+  </ul>
+</p>
+
+
+
+
+
 <h2>📊 Data Analysis Projects</h2>
 
 <p>
@@ -86,33 +124,6 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 </ul>
 
 <hr>
-
-
-
-<h2> 💼 Experience</h2>
-
-<p>
-  <strong>Data Analysis Intern</a></strong> – Pak AgriTech Ventures (Jul – Sep 2021)<br>
- <ul>
-   <li>Analyzed agricultural data to identify growth patterns. </li>
-   <li>Created visual dashboards and automated Excel reports</li>
- </ul>
-</p>
-
-<p>
-  <strong>Flutter Intern</a></strong> – Pak AgriTech Ventures (Jul – Sep 2022)<br>
-  <ul>
-    <li>Contributed to cross-platform mobile apps using Flutter and Dart</li>
-  </ul>
-</p>
-
-<p>
-  <strong>Software Engineer Intern</a></strong>– Gosign (Jul – Oct 2022)<br>
-  <ul>
-    <li> Assisted in TYPO3-based website backend development.</li>
-  </ul>
-</p>
-
 
 
 
