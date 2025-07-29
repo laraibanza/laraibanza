@@ -85,7 +85,7 @@ Motivated Computer Science graduate with hands-on experience in data analysis pr
 
 <p>
   <strong>3.Weather Data Pipeline</a></strong><br>
-  extracted the weather data  using APIs and stored it in a MySQL database. Created a scheduler with Python scripts for hourly updates.
+  Extracted the weather data  using APIs and stored it in a MySQL database. Created a scheduler with Python scripts for hourly updates.
 </p>
 
 
